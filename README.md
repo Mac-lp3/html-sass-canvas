@@ -1,8 +1,11 @@
 # What is this?
 It is a bare-bones project skeleton for any time you want to quickly start
-playing around with a SASS based front end build. Comes with gulp-sass and
-browser-sync to auto refresh the browser and compile your sass. The project
-follows SMACSS structure.
+playing around with a SASS based front end build.
+
+It comes with gulp-sass and browser-sync ready for browser auto-refresh and
+watching your sass to recompile.
+
+The project follows SMACSS structure and comes with bootstrap.
 
 # How do I use it?
 ```
