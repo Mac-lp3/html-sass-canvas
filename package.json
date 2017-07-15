@@ -1,0 +1,21 @@
+{
+  "name": "html-sass-canvas",
+  "version": "1.0.0",
+  "description": "Front end project skeliton with html & sass live reloading.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mac-lp3/html-sass-canvas.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "Mac-lp3",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
